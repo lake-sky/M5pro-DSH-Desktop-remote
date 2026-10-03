@@ -16,9 +16,10 @@
 | 文件 / 目录 | 分类 | 说明 |
 | --- | --- | --- |
 | [skills/](skills/) | 技能研究 | AI 写小说 skill 生态调研：生态背景 / 项目全景 / 深度剖析 / 共性模式与启示，详见该目录 README |
+| [author-styles/](author-styles/) | 文法 | 中外作家风格研究与「蒸馏」：曹雪芹 / 鲁迅 / 海明威，每人含 profile + style-skill，详见该目录 README |
 | （内容添加后请在此登记） | | |
 
 ## 命名规则
 
 - 目录一律英文命名（kebab-case），规则见 [根 README](../../README.md)。
-- 待内容增多后，建议分设 `material/`、`technique/`、`author-styles/` 三个子目录，各自建立 README 并更新本表索引（`skills/` 已按此规则建立）。
+- 待内容增多后，建议分设 `material/`、`technique/`、`author-styles/` 三个子目录，各自建立 README 并更新本表索引（`skills/`、`author-styles/` 已按此规则建立）。
