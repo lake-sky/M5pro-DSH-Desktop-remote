@@ -18,4 +18,7 @@
 
 ## 版本控制
 
-本工作区为本地 git 仓库（分支 `main`）。`.DS_Store` 等系统文件已被忽略；目录结构变更与内容更新请随手提交。
+- 本工作区为 git 仓库，分支 `main`，远程仓库 `origin` → `git@github.com:lake-sky/M5pro-DSH-Desktop-remote.git`（SSH）。`.DS_Store` 等系统文件已被忽略。
+- **规则：每次本地 `git commit` 之后，必须同步执行 `git push` 推送到远程**，保持本地与远程一致，不积压未推送的提交。
+- 目录结构变更与内容更新请随手提交（并随之推送）。
+- 注意：DSH 沙箱内的网络出口可能不通（GitHub 通道被拦截时推送会失败）。此时先完成本地提交，并请用户在普通终端执行 `git push -u origin main` 兜底。
