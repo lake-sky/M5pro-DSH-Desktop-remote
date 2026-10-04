@@ -22,4 +22,6 @@
 
 | 文件 | 对应章节 | 状态 |
 | --- | --- | --- |
-| [ch01-getting-started.md](ch01-getting-started.md) | 第 1 章 开局：选路、硬件与预算 | 样章（用于验证四段式模板） |
+| [ch01-getting-started.md](ch01-getting-started.md) | 第 1 章 开局：选路、硬件与预算 | 样章（四段式模板已验证） |
+| [appendix-a-glossary.md](appendix-a-glossary.md) | 附录 A 术语表 | 初稿 |
+| [appendix-b-hardware-cost.md](appendix-b-hardware-cost.md) | 附录 B 硬件与成本对照表 | 初稿 |
