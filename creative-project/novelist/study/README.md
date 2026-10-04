@@ -16,7 +16,7 @@
 | 文件 / 目录 | 分类 | 说明 |
 | --- | --- | --- |
 | [skills/](skills/) | 技能研究 | AI 写小说 skill 生态调研：生态背景 / 项目全景 / 深度剖析 / 共性模式与启示，详见该目录 README |
-| [author-styles/](author-styles/) | 文法 | 中外作家风格研究与「蒸馏」：曹雪芹 / 鲁迅 / 海明威，每人含 profile + style-skill，详见该目录 README |
+| [author-styles/](author-styles/) | 文法 | 中外作家风格研究与「蒸馏」：曹雪芹、鲁迅、海明威、马伯庸、迟子建、刘震云、刘慈欣、赫伯特、阿西莫夫、玛丽·雪莱（10 位），每人含 profile + style-skill，详见该目录 README |
 | （内容添加后请在此登记） | | |
 
 ## 命名规则
