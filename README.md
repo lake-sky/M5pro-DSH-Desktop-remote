@@ -1,12 +1,13 @@
 # use-person-model 工作区
 
-本工作区为个人模型（use-person-model）的工作目录：承载创意项目，并沉淀工作方法技能。
+本工作区为个人模型（use-person-model）的工作目录：承载创意项目与技术类书籍项目，并沉淀工作方法技能。
 
 ## 目录索引
 
 | 目录 | 说明 |
 | --- | --- |
 | [creative-project/](creative-project/) | 创意项目区（含 novelist/ 小说家工作区，详见其 README） |
+| [tech-books-project/](tech-books-project/) | 技术类书籍项目区（含《从零构建语言模型》，详见其 README） |
 | [skills/](skills/) | 全局技能库：把实践中验证有效的工作方法沉淀成可复用 skill（详见其 README） |
 
 ## 命名规则
