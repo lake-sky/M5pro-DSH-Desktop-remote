@@ -6,7 +6,7 @@
 
 | 分类 | 说明 | 示例内容 |
 | --- | --- | --- |
-| 素材（Material） | 为写作收集的原始材料 | 场景描写、引文、轶事、历史掌故、人物原型、灵感片段 |
+| 素材（Material） | 为写作收集的原始材料 | 场景描写、引文、轶事、历史掌故、人物原型、灵感片段、类型发展史资料 |
 | 技法（Technique） | 写作手法的知识与练笔 | 叙事视角、结构布局、节奏控制、对话、伏笔、留白 |
 | 文法（Author's Grammar） | 古今著名作者的文风解析 | 司马迁的笔法、曹雪芹的对话、鲁迅的冷峻、海明威的冰山风格、马尔克斯的抒情 |
 | 技能研究（Skill Research） | 公开 AI 写小说 skill 生态的调研与方法论提炼 | 项目全景、机制剖析、共性模式、可借鉴的行动项 |
@@ -17,9 +17,10 @@
 | --- | --- | --- |
 | [skills/](skills/) | 技能研究 | AI 写小说 skill 生态调研：生态背景 / 项目全景 / 深度剖析 / 共性模式与启示，详见该目录 README |
 | [author-styles/](author-styles/) | 文法 | 中外作家风格研究与「蒸馏」：曹雪芹、鲁迅、海明威、马伯庸、迟子建、刘震云、刘慈欣、赫伯特、阿西莫夫、玛丽·雪莱（10 位），每人含 profile + style-skill，详见该目录 README |
+| [sci-fi-history/](sci-fi-history/) | 素材・文法 | 科幻小说发展史与权威文献：世界科幻史（先驱→当代）/ 中国科幻史（晚清→今）/ 权威文献清单（含【已核】【待核】标注），详见该目录 README |
 | （内容添加后请在此登记） | | |
 
 ## 命名规则
 
 - 目录一律英文命名（kebab-case），规则见 [根 README](../../README.md)。
-- 待内容增多后，建议分设 `material/`、`technique/`、`author-styles/` 三个子目录，各自建立 README 并更新本表索引（`skills/`、`author-styles/` 已按此规则建立）。
+- 待内容增多后，建议分设 `material/`、`technique/`、`author-styles/` 三个子目录，各自建立 README 并更新本表索引（`skills/`、`author-styles/`、`sci-fi-history/` 已按此规则建立）。
