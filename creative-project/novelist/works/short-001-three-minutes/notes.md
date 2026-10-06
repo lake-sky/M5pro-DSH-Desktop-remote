@@ -38,9 +38,10 @@
 - [x] 结局设计 → 情感/道德余味 + 最后一句（回声钩子 #12：原句重复，人已不在）
 - [x] 人物设定 → [characters.md](characters.md)
 - [x] 写 002（第十二次）
-- [ ] 写 003（省着用）/ 004（剩余：未知）/ 005（三分钟）
-- [ ] 全篇完稿后逐章过 [AI 味自查](../../study/technique/ai-flavor-checklist.md)，推进到 v0.2
-- [ ] 扩写时优先用 [stuck-and-expansion.md](../../study/technique/stuck-and-expansion.md) 的「关键时刻放慢」：005 那三分钟可以写得更慢
+- [x] 写 003（省着用）/ 004（剩余：未知）/ 005（三分钟）→ **初稿完成**
+- [ ] 全篇过 [AI 味自查](../../study/technique/ai-flavor-checklist.md)，推进到 v0.3
+- [ ] v0.3 后考虑投稿（[publishing/strategy.md](../../publishing/strategy.md) 阶段 0 → 阶段 1）
+- [ ] 扩写时优先用 [stuck-and-expansion.md](../../study/technique/stuck-and-expansion.md) 的「关键时刻放慢」——目前 005 那三分钟可以写得更慢
 
 ## 五、写作中的发现（随写随记）
 
