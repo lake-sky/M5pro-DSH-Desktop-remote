@@ -44,7 +44,7 @@
 > **本目录每新增一篇文档，必须同时产出一段可发表级正文（哪怕只有 1000 字）。**
 > 研究服务于发表；不服务于发表的研究，应当归类回 `study/` 或直接删除。
 
-**规则执行记录**：本目录扩充至 5 篇时（[strategy](strategy.md) / [contracts](contracts.md) / [metrics](metrics.md)），同步产出了 [chapters/short-001-three-minutes.md](../chapters/short-001-three-minutes.md)（约 900 字开篇练习稿）。
+**规则执行记录**：本目录扩充至 5 篇时（[strategy](strategy.md) / [contracts](contracts.md) / [metrics](metrics.md)），同步产出了 [《三分钟》开篇](../works/short-001-three-minutes/chapters/001-opening.md)（约 900 字练习稿）。
 
 > 该规则**已生效一次**。下次再想往本目录加文档时，先自问：**这次交正文了吗？**
 
