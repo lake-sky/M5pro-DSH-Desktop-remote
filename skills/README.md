@@ -9,6 +9,7 @@
 | Skill | 作用 |
 | --- | --- |
 | [long-task-resilience/](long-task-resilience/SKILL.md) | 长任务与大输出韧性：避免模型流式超时、分段落盘、断点续做 |
+| [sandbox-env-triage/](sandbox-env-triage/SKILL.md) | 沙箱环境故障分诊：区分「自己的命令 bug / Xcode 许可门控 / 网络出口不可达」三类并各自处置 |
 
 ## 约定
 
@@ -23,3 +24,6 @@
 | --- | --- |
 | 要写大文件（>4KB）或单轮输出很多内容 | `long-task-resilience` |
 | 任务中途报错/超时后要接着干 | `long-task-resilience`（恢复流程） |
+| 命令报错，不确定是自己的问题还是环境坏了 | `sandbox-env-triage`（30 秒分诊表） |
+| `git commit` / `push` 失败，或抓不到外部资料 | `sandbox-env-triage` |
+| 命令报 `You have not agreed to the Xcode license` | `sandbox-env-triage`（`DEVELOPER_DIR` 绕过） |
