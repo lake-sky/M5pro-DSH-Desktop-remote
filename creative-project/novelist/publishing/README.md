@@ -20,10 +20,10 @@
 | 文件 | 内容 | 状态 |
 | --- | --- | --- |
 | [platforms.md](platforms.md) | 平台全景与选择矩阵：付费订阅 / 免费广告 / 文学出版三条赛道 | 初稿 |
+| [strategy.md](strategy.md) | 发表路径：四阶段验证（能力→发表→读者→长篇）+ 止损线 | 初稿 |
+| [contracts.md](contracts.md) | 签约与合同要点：三种模式、版权条款、六个易亏条款、签约前清单 | 初稿 |
+| [metrics.md](metrics.md) | 数据指标与运营：追读率 / 首订 / 均订 + 数据诊断表 + 四条纪律 | 初稿 |
 | [ai-compliance.md](ai-compliance.md) | AI 辅助创作与风格模仿的合规边界（本工作区的高风险项） | 初稿 |
-| strategy.md | 发表路径：从短篇试水到长篇连载 | 待写 |
-| contracts.md | 签约与合同要点：分成 / 买断 / 版权 / 年限 | 待写 |
-| metrics.md | 数据指标与运营：收藏 / 均订 / 追读 / 新书期 | 待写 |
 
 ## 数据可信度约定
 
@@ -43,6 +43,10 @@
 
 > **本目录每新增一篇文档，必须同时产出一段可发表级正文（哪怕只有 1000 字）。**
 > 研究服务于发表；不服务于发表的研究，应当归类回 `study/` 或直接删除。
+
+**规则执行记录**：本目录扩充至 5 篇时（[strategy](strategy.md) / [contracts](contracts.md) / [metrics](metrics.md)），同步产出了 [chapters/short-001-three-minutes.md](../chapters/short-001-three-minutes.md)（约 900 字开篇练习稿）。
+
+> 该规则**已生效一次**。下次再想往本目录加文档时，先自问：**这次交正文了吗？**
 
 ## 命名规则
 

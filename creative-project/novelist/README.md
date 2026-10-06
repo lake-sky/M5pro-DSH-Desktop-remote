@@ -8,15 +8,22 @@
 
 | 文件 / 目录 | 说明 |
 | --- | --- |
+| [chapters/](chapters/) | **作品正文**：小说正文，含技法对照与实验记录 |
 | [study/](study/) | 研习区（向内）：素材、技法、古今著名作者的文法、类型史、AI 写小说 skill 调研 |
 | [publishing/](publishing/) | 发表与运营（向外）：平台选择、签约条款、AI 合规、数据指标 |
 | （内容添加后请在此登记） | |
 
 ## 现状提示
 
-截至 2026-10-06，本区共 **1772 行，全部为研究内容，创作产出为 0**（尚无 `outline/` / `characters/` / `chapters/`）。
+截至 2026-10-06：
 
-下一步的重点不是再加研究目录，而是**产出第一段可发表级正文**——参见 [publishing/README.md](publishing/README.md) 的「防跑偏」硬规则。
+| 线 | 状态 |
+| --- | --- |
+| **研究**（`study/`） | author-styles 10 位、technique 7 篇、sci-fi-history 3 篇、skills 调研 4 篇；`material/` 待建 |
+| **发表**（`publishing/`） | 5 篇：平台矩阵、发表路径、合同要点、数据指标、AI 合规 |
+| **创作**（`chapters/`） | **1 篇开篇练习稿（约 900 字）** ← **这是最需要增长的数字** |
+
+下一步的重点不是再加研究目录，而是**把 900 字变成一篇完整的短篇**（路径见 [publishing/strategy.md](publishing/strategy.md) 的阶段 0）。
 
 ## 命名规则
 
