@@ -32,7 +32,7 @@
 - **字数**：3000–8000 字（不必更长——这是在验证「能否写完」，不是验证「能写多长」）；
 - **结构**：用 [technique/plot-structures.md](../study/technique/plot-structures.md) 的「5 章标准结构」或「3 章微型结构」；
 - **开篇**：用 [technique/chapter-craft.md](../study/technique/chapter-craft.md) 的十种强力开头之一，**避开六种致命错误**；
-- **风格**：从 [author-styles/](../study/author-styles/) 选一位，但只用其**律**（节奏、结构、视角），**不搬其句**（[合规边界](../../publishing/ai-compliance.md)）；
+- **风格**：从 [author-styles/](../study/author-styles/) 选一位，但只用其**律**（节奏、结构、视角），**不搬其句**（[合规边界](ai-compliance.md)）；
 - **完稿后**：过一遍 [technique/ai-flavor-checklist.md](../study/technique/ai-flavor-checklist.md)。
 
 ### 第 2 步：投稿（阶段 1）
