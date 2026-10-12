@@ -8,6 +8,7 @@
 | --- | --- |
 | [creative-project/](creative-project/) | 创意项目区（含 novelist/ 小说家工作区，详见其 README） |
 | [tech-books-project/](tech-books-project/) | 技术类书籍项目区（含《从零构建语言模型》，详见其 README） |
+| [ai-money-projects/](ai-money-projects/) | AI 工具赚钱项目集：内容创作 / SaaS / 数字产品 / 联盟营销 / 自由职业 / AI Agent 全流程实践（详见其 README） |
 | [skills/](skills/) | 全局技能库：把实践中验证有效的工作方法沉淀成可复用 skill（详见其 README） |
 
 ## 命名规则
