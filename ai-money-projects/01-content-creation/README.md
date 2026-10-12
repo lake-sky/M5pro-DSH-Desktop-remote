@@ -10,7 +10,7 @@
 
 | 项目名 | 一句话 | 渠道 | 状态 | 创建 | 最近更新 |
 | --- | --- | --- | --- | --- | --- |
-| _（暂无）_ | — | — | — | — | — |
+| [x-com-ai-builders/](x-com-ai-builders/) | 在 X.com 上以"AI Builder"人设做 build-in-public 自媒体，AI 协作生产内容，多渠道变现 | X.com（主） + newsletter + Gumroad | 💡 idea | 2025-10-12 | 2025-10-12 |
 
 > 新建项目后，把上表补充一行；项目归档或删除时把行移到 `99-archive/README.md`。
 
@@ -18,9 +18,12 @@
 
 - 鼓励每个项目用**平台 + 选题方向**命名，例如 `wechat-ai-product-review` `xhs-coupon-deals` `youtube-shorts-factory`。
 - 跨平台分发时，可在同一项目目录下用 `content/<channel>/` 子目录隔离。
+- 每个项目内部按 **assets / code / content 三块分离**（参考 `x-com-ai-builders/` 的标准结构）。
 
 ## 共享经验（待沉淀）
 
+- **AI 协作 SOP**：参考 [`x-com-ai-builders/code/AI-COLLAB-SOP.md`](x-com-ai-builders/code/AI-COLLAB-SOP.md)。
+- **选题与排程**：参考 [`x-com-ai-builders/code/CONTENT-CALENDAR.md`](x-com-ai-builders/code/CONTENT-CALENDAR.md)。
 - 提示词模板：见 `../../skills/`（如果存在 `prompt-library` 类 skill）。
 - 内容批量生产管线：可参考 `06-ai-agents/` 中的 agent 项目。
 - 跨平台分发 SOP：项目内 `06-operate.md` 的「增长实验」累积后回填此处。
