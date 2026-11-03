@@ -21,9 +21,9 @@
 | --- | --- |
 | **研究**（`study/`） | author-styles 10 位、technique 7 篇、sci-fi-history 3 篇、skills 调研 4 篇；`material/` 待建 |
 | **发表**（`publishing/`） | 5 篇：平台矩阵、发表路径、合同要点、数据指标、AI 合规 |
-| **创作**（`works/`） | 1 部作品（《三分钟》v0.1，约 900 字）← **这是最需要增长的数字** |
+| **创作**（`works/`） | 1 部作品（《三分钟》**v0.3**，5 章 4688 字，已 tag v0.1–v0.3）← **这是最需要增长的数字** |
 
-下一步的重点不是再加研究目录，而是**把 900 字变成一篇完整的短篇**（路径见 [publishing/strategy.md](publishing/strategy.md) 的阶段 0）。
+下一步的重点不是再加研究目录，而是**把已完稿的 v0.3 投出去**（路径见 [publishing/strategy.md](publishing/strategy.md) 的阶段 1）。
 
 ## 命名规则
 
