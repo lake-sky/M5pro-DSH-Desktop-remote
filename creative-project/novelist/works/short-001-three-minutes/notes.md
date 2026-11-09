@@ -76,3 +76,19 @@
 | **「换了好几趟手」→「本子换手拿了几回」**；005 删一处「轻轻」 | 003 / 005 | 语义不清；弱化副词集中在高潮段落 |
 
 > **可复用结论**：章末钩子的重复（001、003 都是留白式）在本篇是**风格签名**，不是缺陷——留白与白描是同一件事：不写的那部分承担重量。若日后投稿被编辑指出，再按 [hooks.md](../../study/technique/hooks.md) 的「同质悬念」禁忌调整。
+
+## 八、风格来源与去可识别性证据（投稿用）
+
+按 [ai-compliance.md](../../publishing/ai-compliance.md) 第三节第 2 条，投稿前要做「去可识别性自查」。本篇的风格来源与边界登记如下：
+
+| 借用的「律」 | 来源 | 本篇落点 | 是否触碰外壳 |
+| --- | --- | --- | --- |
+| 硬时限产生情节 | [ma-boyong-style](../../study/author-styles/ma-boyong/style-skill.md) | 三分钟上限；001「还剩四十一秒」→ 005「三十秒。二十秒。十秒。」 | 否——全篇没有古今落差句式 |
+| 制度成本作情节引擎 | 同上 | 取号、填表、签名、按次计费、「站里不替您记您失去的部分」 | 否 |
+| 承办者视角（只看到自己那一层） | 同上 | 实习操作员 | 否 |
+| 白描 / 留白 / 冰山 | [hemingway](../../study/author-styles/hemingway/style-skill.md)、[lu-xun](../../study/author-styles/lu-xun/style-skill.md) | 「她签了。」「门开了。」；结尾不写她的决定与感受 | 否——两位均已故，且只取律 |
+| 中文叙述默认逗号长句 | [ai-flavor-checklist.md](../../study/technique/ai-flavor-checklist.md) 规则 3 | 全篇叙述基调，短句仅作重拍 | — |
+
+**结论**：本篇未借用任何在世作家的标志性句法、专有概念或意象组合。可核查的证据链：① 设定（回声站四条硬规则）原创，见 [outline.md](outline.md)；② 意象（票根 / 听筒 / 玉兰 / 倒计时）自造，见 outline.md §五；③ 「律 vs 外壳」的区分有练习产出佐证，见 [practice/](../../study/author-styles/practice/)。
+
+> **AI 使用分级（若平台要求申报）**：大纲推演、一致性检查、句式自查使用 AI 辅助；句层面的逐段修订由作者判断并定稿；人物、主题、结局为原创。过程证据 = outline.md / characters.md / notes.md 的版本记录 + git 历史（tag v0.1–v0.4）。

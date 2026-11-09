@@ -16,7 +16,7 @@
 | 文件 / 目录 | 分类 | 说明 |
 | --- | --- | --- |
 | [skills/](skills/) | 技能研究 | AI 写小说 skill 生态调研：生态背景 / 项目全景 / 深度剖析 / 共性模式与启示，详见该目录 README |
-| [author-styles/](author-styles/) | 文法 | 中外作家风格研究与「蒸馏」：曹雪芹、鲁迅、海明威、马伯庸、迟子建、刘震云、刘慈欣、赫伯特、阿西莫夫、玛丽·雪莱（10 位），每人含 profile + style-skill，详见该目录 README |
+| [author-styles/](author-styles/) | 文法 | 中外作家风格研究与「蒸馏」：曹雪芹、鲁迅、海明威、马伯庸、迟子建、刘震云、刘慈欣、赫伯特、阿西莫夫、玛丽·雪莱（10 位），每人含 profile + style-skill；另有 [author-styles/practice/](author-styles/practice/) 存放蒸馏练习的实际产出（验证风格是否可复现），详见该目录 README |
 | [technique/](technique/) | 技法 | 写作手法方法论（7 篇）：文学原理、章节写法与**中文文学技法**、钩子十三式、情节结构、人物对话、卡文扩充、AI 味自查，详见该目录 README |
 | [sci-fi-history/](sci-fi-history/) | 素材・文法 | 科幻小说发展史与权威文献：世界科幻史（先驱→当代）/ 中国科幻史（晚清→今）/ 权威文献清单（含【已核】【待核】标注），详见该目录 README |
 | （内容添加后请在此登记） | | |
